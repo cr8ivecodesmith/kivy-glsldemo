@@ -1,0 +1,3 @@
+title=GLSL Shaders Demo
+author=Matt Lebrun
+orientation=portrait
